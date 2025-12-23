@@ -19,15 +19,10 @@ Traditional rule-based or tag-based classification systems often fail when users
 ## Tech Stack
 
 - **Language**: Python
-- **Core Libraries**: `sentence-transformers`, `numpy`, `scikit-learn`
+- **Core Libraries**: `sentence-transformers`, `numpy`
 - **Interface**: Jupyter Notebook
 
-## Results
 
-The system is evaluated against diverse test cases to demonstrate its performance in:
-- **Direct Matches**: Clear alignment with specific genre definitions.
-- **Ambiguous Cases**: Identifying correct genres even when user tags are misleading.
-- **Out-of-Domain Detection**: Correctly filtering non-fiction or irrelevant content.
 
 ## Installation
 
